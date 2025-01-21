@@ -13,4 +13,4 @@ Gồm<br>
 - câu hỏi: là câu hỏi mà mô hình chatgpt sinh ra sau khi xử lý nội dung text đầu vào.<br>
 - câu trả lời: là câu trả lời mà mô hình trích xuất từ text ban đầu để trả lời câu hỏi.<br>
 * Ví dụ cho cách tạo dữ liệu:<br>
-
+[image](https://drive.google.com/file/d/1a07Vt3bldL54ohkTxsWfcPfHtgkpUaxX/view?usp=sharing)
