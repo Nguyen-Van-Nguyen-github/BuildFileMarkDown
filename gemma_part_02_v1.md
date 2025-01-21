@@ -33,3 +33,33 @@ Xem file chi tiết tại [link](https://drive.google.com/file/d/1Hy_1WjY7aIDTOu
 ![Hình 2.2](Hinh2_2.png)
 
 ![Hình 2.3](Hinh2_3.png)
+
+# 2. Ví dụ System Prompt. <br>
+- System Prompt chứa ngữ cảnh, hướng dẫn và mô tả nhiệm vụ chi tiết cho mô hình.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
