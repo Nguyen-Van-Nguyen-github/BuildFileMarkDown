@@ -6,5 +6,4 @@
 <br>
 1. Xây dựng dataset cho huấn luyện Gemma với chủ đề du lịch và địa lý.
 <br>
-2. nghiên cứu Research system role + system prompt
-
+2. Nghiên cứu Research system role + system prompt.
