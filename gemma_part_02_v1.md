@@ -28,4 +28,8 @@ Xem file chi tiết tại [link](https://drive.google.com/file/d/1Hy_1WjY7aIDTOu
 => Lời nhắc hệ thống hoạt động như một khuôn khổ hướng dẫn, định hình hành vi và phong cách của AI trong suốt quá trình tương tác, để đảm bảo rằng mô hình phù hợp với mục tiêu cụ thể cung cấp trải nghiệm người dùng mong đợi, duy trì tính nhất quán trong phản hồi.
 # 1. Ví dụ Prompt <br>
 - Prompt cơ bản (Prompt đơn) mà người dùng thường nhập thông tin cho mô hình. <br>
+![Hình 2.1](Hinh2_1.png)
 
+![Hình 2.2](Hinh2_2.png)
+
+![Hình 2.3](Hinh2_3.png)
