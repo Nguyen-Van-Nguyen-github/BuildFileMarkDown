@@ -13,11 +13,11 @@ Gồm<br>
 - câu hỏi: là câu hỏi mà mô hình chatgpt sinh ra sau khi xử lý nội dung text đầu vào.<br>
 - câu trả lời: là câu trả lời mà mô hình trích xuất từ text ban đầu để trả lời câu hỏi.<br>
 * Ví dụ cho cách tạo dữ liệu:<br>
-![Hình 1.1](Hinh1_1.png)
+![Hình 1.1]([Hinh1_1.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh1_1.png))
 Hình ảnh trên là dữ liệu thô ban đầu thu thập được trên internet như wiki và các website du lịch. <br><br>
-![Hình 1.2](Hinh1_2.png) <br>
+![Hình 1.2]([Hinh1_2.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh1_2.png)) <br>
 Yêu cầu mà người dùng (user) truyền vào mô hình. <br><br>
-![Hình 1.3](Hinh1_3.png) 
+![Hình 1.3]([Hinh1_3.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh1_3.png)) 
 Kết quả mô hình ChatGPT trả về. <br><br>
 * file dữ liệu hiện tại 15 nghìn dòng file jsonl.<br>
 Xem file chi tiết tại [link](https://drive.google.com/file/d/1Hy_1WjY7aIDTOuLcEO3iZ7Dh3xm6q7WZ/view) <br>
@@ -28,30 +28,30 @@ Xem file chi tiết tại [link](https://drive.google.com/file/d/1Hy_1WjY7aIDTOu
 => Lời nhắc hệ thống hoạt động như một khuôn khổ hướng dẫn, định hình hành vi và phong cách của AI trong suốt quá trình tương tác, để đảm bảo rằng mô hình phù hợp với mục tiêu cụ thể cung cấp trải nghiệm người dùng mong đợi, duy trì tính nhất quán trong phản hồi.
 # 1. Ví dụ Prompt <br>
 - Prompt cơ bản (Prompt đơn) mà người dùng thường nhập thông tin cho mô hình. <br>
-![Hình 2.0](Hinh2_00.png)
-![Hình 2.1](Hinh2_1.png)
+![Hình 2.0]([Hinh2_00.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh2_00.png))
+![Hình 2.1]([Hinh2_1.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh2_1.png))
 
-![Hình 2.2](Hinh2_2.png)
+![Hình 2.2]([Hinh2_2.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh2_2.png))
 
-![Hình 2.3](Hinh2_3.png)
+![Hình 2.3]([Hinh2_3.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh2_3.png))
 
 # 2. Ví dụ System Prompt. <br>
 - System Prompt chứa ngữ cảnh, hướng dẫn và mô tả nhiệm vụ chi tiết cho mô hình.
-![Hình 2.1.1](Hinh2_1_1.png) 
+![Hình 2.1.1]([Hinh2_1_1.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh2_1_1.png)) 
 
-![Hình 2.1.2](Hinh2_1_2.png)
+![Hình 2.1.2]([Hinh2_1_2.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh2_1_2.png))
 
-![Hình 2.1.3](Hinh2_1_3.png)
+![Hình 2.1.3]([Hinh2_1_3.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh2_1_3.png))
 
-![Hình 2.1.4](Hinh2_1_4.png)
+![Hình 2.1.4]([Hinh2_1_4.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh2_1_4.png))
 
-![Hình 2.1.5](Hinh2_1_5.png)
+![Hình 2.1.5]([Hinh2_1_5.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh2_1_5.png))
 
-![Hình 2.1.6](Hinh2_1_6.png)
+![Hình 2.1.6]([Hinh2_1_6.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh2_1_6.png))
 
 # 3. System Prompt kết hợp với ví dụ minh họa.
 - System Prompt chứa ngữ cảnh, hướng dẫn và mô tả nhiệm vụ chi tiết cho mô hình với ví dụ minh họa đính kèm.
-![Hình 2.2.1](Hinh2_2_1.png)
+![Hình 2.2.1]([Hinh2_2_1.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh2_2_1.png))
 Kết Luận: Một System Prompt thường có các đặc điểm sau.
 - Hướng dẫn nhiệm vụ và mục tiêu.
 - Đặc điểm tính cách, vai trò và hướng dẫn giai điệu.
@@ -66,17 +66,17 @@ Kết Luận: Một System Prompt thường có các đặc điểm sau.
 - Ví dụ minh họa với ChatGPT.
 # 2. Vai trò người dùng Role user
 - Đại diện cho con người tương tác với mô hình AI.<br>
-![Hình 3.1](Hinh3_1.png)
+![Hình 3.1]([Hinh3_1.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh3_1.png))
 # 3. Vai trò trợ lý.
 - Đại diện cho chính mô hình AI. <br>
-![Hình 3.2](Hinh3_2.png)
+![Hình 3.2]([Hinh3_2.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh3_2.png))
 
 # 4. Vai trò hệ thống.
 - Vai trò hệ thống là một tính năng mạnh mẽ cho phép thiết lập bối cảnh và hành vi của mô hình AI.
-![Hình 3.3](Hinh3_3.png)
+![Hình 3.3]([Hinh3_3.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh3_3.png))
 
 # 5. Câu trả lời về tên mô hình.
-![Hình 3.4](Hinh3_4.png)
+![Hình 3.4]([Hinh3_4.png](https://github.com/Nguyen-Van-Nguyen-github/BuildFileMarkDown/blob/master/Hinh3_4.png))
 - Trong quá trình huấn luyện ban đầu, tên của mô hình được lập đi lập lại nhiều lần, tạo các liên kết bền vững trong mô hình => khi được hỏi tên thì sẽ luôn trả lời ChatGPT.
 
 
