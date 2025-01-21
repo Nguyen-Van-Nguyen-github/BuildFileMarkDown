@@ -65,11 +65,18 @@ Kết Luận: Một System Prompt thường có các đặc điểm sau.
 - Ví dụ minh họa với ChatGPT.
 # 2. Vai trò người dùng Role user
 - Đại diện cho con người tương tác với mô hình AI.
-- 
+![Hình 3.1](Hinh3_1.png)
+# 3. Vai trò trợ lý.
+- Đại diện cho chính mô hình AI. <br>
+![Hình 3.2](Hinh3_2.png)
 
+# 4. Vai trò hệ thống.
+- Vai trò hệ thống là một tính năng mạnh mẽ cho phép thiết lập bối cảnh và hành vi của mô hình AI.
+![Hình 3.3](Hinh3_3.png)
 
-
-
+# 5. Câu trả lời về tên mô hình.
+![Hình 3.4](Hinh3_4.png)
+- Trong quá trình huấn luyện ban đầu, tên của mô hình được lập đi lập lại nhiều lần, tạo các liên kết bền vững trong mô hình => khi được hỏi tên thì sẽ luôn trả lời ChatGPT.
 
 
 
