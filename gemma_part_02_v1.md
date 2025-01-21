@@ -1,10 +1,10 @@
 # Gemma
 Người viết: Nguyễn Văn Nguyễn  <br>
 Email: nguyenvannguyen192402@gmail.com  <br>
-A. Các phần chi tiết của báo cáo này. <br>
+# A. Các phần chi tiết của báo cáo này. <br>
 1. Xây dựng dataset cho huấn luyện Gemma với chủ đề du lịch và địa lý. <br>
 2. Nghiên cứu Research system role + system prompt.<br>
-B. Nội dung.<br>
+# B. Nội dung.<br>
 I. Xây dựng dataset cho huấn luyện Gemma với chủ đề du lịch và địa lý.<br>
 Gồm<br>
 - Bước 1: thu thập dữ liệu thô từ wikipedia về chủ đề du lịch với địa lý (bước này sử dụng code python).<br>
