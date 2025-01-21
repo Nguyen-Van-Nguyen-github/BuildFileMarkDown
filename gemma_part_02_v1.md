@@ -19,3 +19,11 @@ Hình ảnh trên là dữ liệu thô ban đầu thu thập được trên inte
 Yêu cầu mà người dùng (user) truyền vào mô hình. <br><br>
 ![Hình 1.3](Hinh1_3.png) 
 Kết quả mô hình ChatGPT trả về. <br><br>
+* file dữ liệu hiện tại 15 nghìn dòng file jsonl.<br>
+Xem file chi tiết tại [link](https://drive.google.com/file/d/1Hy_1WjY7aIDTOuLcEO3iZ7Dh3xm6q7WZ/view) <br>
+# II. Research system role + system prompt  <br>
+# System Prompt: lời nhắc hệ thống. <br>
++ Là những hướng dẫn do các nhà phát triển mô hình AI cung cấp cho các mô hình AI.<br>
++ Được thiết lập ngữ cảnh, giọng điệu, ranh giới cho các lời phản hồi. <br>
+=> Lời nhắc hệ thống hoạt động như một khuôn khổ hướng dẫn, định hình hành vi và phong cách của AI trong suốt quá trình tương tác, để đảm bảo rằng mô hình phù hợp với mục tiêu cụ thể cung cấp trải nghiệm người dùng mong đợi, duy trì tính nhất quán trong phản hồi.
+
