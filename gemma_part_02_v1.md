@@ -48,7 +48,9 @@ Xem file chi tiết tại [link](https://drive.google.com/file/d/1Hy_1WjY7aIDTOu
 
 ![Hình 2.1.6](Hinh2_1_6.png)
 
-
+# 3. System Prompt kết hợp với ví dụ minh họa.
+- System Prompt chứa ngữ cảnh, hướng dẫn và mô tả nhiệm vụ chi tiết cho mô hình với ví dụ minh họa đính kèm.
+- 
 
 
 
