@@ -50,8 +50,22 @@ Xem file chi tiết tại [link](https://drive.google.com/file/d/1Hy_1WjY7aIDTOu
 
 # 3. System Prompt kết hợp với ví dụ minh họa.
 - System Prompt chứa ngữ cảnh, hướng dẫn và mô tả nhiệm vụ chi tiết cho mô hình với ví dụ minh họa đính kèm.
+![Hình 2.2.1](Hinh2_2_1.png)
+Kết Luận: Một System Prompt thường có các đặc điểm sau.
+- Hướng dẫn nhiệm vụ và mục tiêu.
+- Đặc điểm tính cách, vai trò và hướng dẫn giai điệu.
+- Thông tin theo ngữ cảnh cho đầu vào của người dùng
+- Những hạn chế về sáng tạo và hướng dẫn về phong cách.
+- KIến thức, dữ liệu hoặc tài liệu tham khảo bên ngoài.
+- Các quy tắc, hướng dẫn và rào cản cần thiết.
+- Tiêu chuẩn và yêu cầu xác minh đầu ra.
+# System Role.
+#  1. Ví dụ System Role.
+- Xác định và quản lý các vai trò khác nhau trong cuộc trò chuyện.
+- Ví dụ minh họa với ChatGPT.
+# 2. Vai trò người dùng Role user
+- Đại diện cho con người tương tác với mô hình AI.
 - 
-
 
 
 
