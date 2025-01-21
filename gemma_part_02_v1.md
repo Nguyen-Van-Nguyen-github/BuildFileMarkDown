@@ -13,5 +13,5 @@ Gồm<br>
 - câu hỏi: là câu hỏi mà mô hình chatgpt sinh ra sau khi xử lý nội dung text đầu vào.<br>
 - câu trả lời: là câu trả lời mà mô hình trích xuất từ text ban đầu để trả lời câu hỏi.<br>
 * Ví dụ cho cách tạo dữ liệu:<br>
-![image](https://drive.google.com/file/d/1a07Vt3bldL54ohkTxsWfcPfHtgkpUaxX/view?usp=sharing)
-![Ảnh minh họa]([hinh-anh.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.scientificamerican.com%2Farticle%2Fthe-surprising-story-of-how-peaches-became-an-icon-of-the-u-s-southeast%2F&psig=AOvVaw2tx1ZKDh2vaAqtdrUNIeYp&ust=1737528619440000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKil6tKchosDFQAAAAAdAAAAABAE))
+![image](Hinh1_1.png)
+
